@@ -7,7 +7,7 @@ body{
 .orange-color{
     color: orange;
 }
-section{
+.flexiable{
     display: flex;
     margin-bottom: 150px;
 }
